@@ -1,0 +1,6 @@
+Dec 24 2019 15:54:18
+{"type":2,"message":"opendir(D:\\WORK\\xampp\\htdocs\\wglab\/wp-content\/uploads\/et_temp): failed to open dir: No such file or directory","file":"D:\\WORK\\xampp\\htdocs\\wglab\\wp-content\\themes\\Divi\\epanel\\custom_functions.php","line":1331}
+
+Dec 24 2019 15:54:20
+{"type":8,"message":"Undefined variable: sevisitor","file":"C:\\Users\\capta\\AppData\\Local\\Temp\\theB637.tmp","line":117}
+
